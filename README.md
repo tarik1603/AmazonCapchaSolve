@@ -1,5 +1,5 @@
 # AmazonCapchaSolve
-Amazonda çıkan Capcha Sorgusunu OCR kullanarak çözen bir yazılım
+Amazonda çıkan Capcha Sorgusunu OCR kullanarak çözen bir script
 
 # sudo apt-get install python3
 # sudo apt-get install python3-pip
